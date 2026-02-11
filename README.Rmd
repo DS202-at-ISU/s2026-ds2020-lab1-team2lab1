@@ -1,6 +1,11 @@
 ---
+<<<<<<< HEAD
+title: "DS 2020 LAB 1 TEAM 2"
+date: "2/11/2026"
+=======
 title: "DS 2020 La1 Team2"
 date: "Spring 2026"
+>>>>>>> d9d585d0339d1eef0d6391cb9ace44bcb75850c8
 output: github_document
 ---
 
@@ -11,8 +16,15 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+<<<<<<< HEAD
+# Lab report #1
+##12.1
+-Logan's Note: We had this done already so we moved on to the next step.
+--Logan trying to commit
+=======
 
 # Lab report #1 
+>>>>>>> d9d585d0339d1eef0d6391cb9ace44bcb75850c8
 
 Follow the instructions posted at https://ds202-at-isu.github.io/labs.html for the lab assignment. The work is meant to be finished during the lab time, but you have time until Monday evening to polish things.
 

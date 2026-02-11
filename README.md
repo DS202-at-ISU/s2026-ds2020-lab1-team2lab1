@@ -5,6 +5,7 @@ Spring 2026
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
 # Lab report \#1
+This is a change made from RStudio.
 
 Follow the instructions posted at
 <https://ds202-at-isu.github.io/labs.html> for the lab assignment. The
