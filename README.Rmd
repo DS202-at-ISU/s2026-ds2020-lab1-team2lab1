@@ -17,8 +17,14 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
+# Lab report #1
+
+##12.1
+-Logan's Note: We had this done already so we moved on to the next step.
+--Logan trying to commit
+
 # Lab report #1 
->>>>>>> d9d585d0339d1eef0d6391cb9ace44bcb75850c8
+
 
 Follow the instructions posted at https://ds202-at-isu.github.io/labs.html for the lab assignment. The work is meant to be finished during the lab time, but you have time until Monday evening to polish things.
 
@@ -32,39 +38,42 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 - Jacob's note: Successfully followed all the instructions for prerequisites.
 - Logan's note:Had everything done so I moved on to next step. 
 - Sebastian's note: 
-- Alina's note:
+- Alina's note: No issues with this part
 
 
 ### step 12.2
 - Jacob's note: We made a repo GitHub by accessing the github HTTPS link.
 - Logan's note: The link for the repo was given to us so we moved on to next step
 - Sebastian's note: 
-- Alina's note:
+- Alina's note: No major issues, had trouble with
+initial start of task but figured it out with help
+from Jacob :)
 
 
 ### step 12.3
 - Jacob's note: We followed all the instructions from the textbook and successfully create the project. 
 - Logan's note: We copied the link that was given in the repo and used that
 - Sebastian's note: 
-- Alina's note:
+- Alina's note: No issues with this part
 
 
 ### step 12.4
-- Jacob's note: We make any local changes on our own and commit the changes. The recent version was visually clear and clean. 
-- Logan's note:
+- Jacob's note: 
+- Logan's note: I didn't have any issues with this step so I just commited the thing locally
 - Sebastian's note: 
-- Alina's note:
+- Alina's note: The initial statement did not come through for everyone
 
 
 ### step 12.5
 - Jacob's note: 
-- Logan's note:
+- Logan's note: I struggled with the merge because I wasn't logged in to the correct account. Had to create a personal token to login. Had to select "repo" check box. 
 - Sebastian's note: 
-- Alina's note:
+- Alina's note: Merge issues. Asked professor for help and was able to resolve. Updates come through smoothly now
 
 
 ### step 12.6
 - Jacob's note: 
-- Logan's note:
+- Logan's note: It took some work but we found that if we all wait for commits, pulls, pushes, then we were smooth sailing
 - Sebastian's note: 
-- Alina's note:
+- Alina's note:everything is coming through smoothly, all commits, pulls, and pushes seem to be working
+
