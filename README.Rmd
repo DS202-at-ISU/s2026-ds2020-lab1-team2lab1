@@ -15,8 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 # Lab report #1
 
 ##12.1
--Logan's Note: We had this done already so we moved on to the next step.
---Logan trying to commit
+check
 
 # Lab report #1 
 
@@ -37,7 +36,7 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 
 ### step 12.2
-- Jacob's note: Make a repo GitHub by accessing the github HTTPS link.
+- Jacob's note: We made a repo GitHub by accessing the github HTTPS link.
 - Logan's note: The link for the repo was given to us so we moved on to next step
 - Sebastian's note: We already got the link for the repo through the Canvas announcement.
 - Alina's note: No major issues, had trouble with
@@ -46,7 +45,7 @@ from Jacob :)
 
 
 ### step 12.3
-- Jacob's note: Clone the test GitHub repository to your computer via RStudio
+- Jacob's note: We followed all the instructions from the textbook and successfully create the project. 
 - Logan's note: We copied the link that was given in the repo and used that
 - Sebastian's note: I created a new project through RStudio and copied the link at the Git option.
 - Alina's note: No issues with this part
