@@ -19,3 +19,48 @@ All submissions to the github repo will be automatically uploaded for
 grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
+
+### step 12.1
+
+- Jacob’s note:
+- Logan’s note:
+- Sebastian’s note:
+- Alina’s note: No issues with this part
+
+### step 12.2
+
+- Jacob’s note:
+- Logan’s note:
+- Sebastian’s note:
+- Alina’s note: No major issues, had trouble with initial start of task
+  but figured it out with help from Jacob :)
+
+### step 12.3
+
+- Jacob’s note:
+- Logan’s note:
+- Sebastian’s note:
+- Alina’s note: No issues with this part
+
+### step 12.4
+
+- Jacob’s note:
+- Logan’s note:
+- Sebastian’s note:
+- Alina’s note: The initial statement did not come through for everyone
+
+### step 12.5
+
+- Jacob’s note:
+- Logan’s note:
+- Sebastian’s note:
+- Alina’s note: Merge issues. Asked professor for help and was able to
+  resolve. Updates come through smoothly now
+
+### step 12.6
+
+- Jacob’s note:
+- Logan’s note:
+- Sebastian’s note:
+- Alina’s note:everything is coming through smoothly, all commits,
+  pulls, and pushes seem to be working
