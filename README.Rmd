@@ -23,22 +23,21 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 
 ### step 12.1
-- Jacob's note: 
+- Jacob's note: Successfully followed all the instructions for prerequisites.
 - Logan's note:
 - Sebastian's note: 
 - Alina's note:
 
 
-
 ### step 12.2
-- Jacob's note: 
+- Jacob's note: Make a repo GitHub by accessing the github HTTPS link.
 - Logan's note:
 - Sebastian's note: 
 - Alina's note:
 
 
 ### step 12.3
-- Jacob's note: 
+- Jacob's note: Clone the test GitHub repository to your computer via RStudio
 - Logan's note:
 - Sebastian's note: 
 - Alina's note:
