@@ -15,8 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 # Lab report #1
 
 ##12.1
--Logan's Note: We had this done already so we moved on to the next step.
---Logan trying to commit
+check
 
 # Lab report #1 
 
