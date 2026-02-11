@@ -39,7 +39,7 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 ### step 12.2
 - Jacob's note: Make a repo GitHub by accessing the github HTTPS link.
 - Logan's note: The link for the repo was given to us so we moved on to next step
-- Sebastian's note: 
+- Sebastian's note: We already got the link for the repo through the Canvas announcement.
 - Alina's note: No major issues, had trouble with
 initial start of task but figured it out with help
 from Jacob :)
@@ -48,27 +48,27 @@ from Jacob :)
 ### step 12.3
 - Jacob's note: Clone the test GitHub repository to your computer via RStudio
 - Logan's note: We copied the link that was given in the repo and used that
-- Sebastian's note: 
+- Sebastian's note: I created a new project through RStudio and copied the link at the Git option.
 - Alina's note: No issues with this part
 
 
 ### step 12.4
 - Jacob's note: 
 - Logan's note: I didn't have any issues with this step so I just commited the thing locally
-- Sebastian's note: 
+- Sebastian's note: Commited, but it prompted me to enter my Github username and token.
 - Alina's note: The initial statement did not come through for everyone
 
 
 ### step 12.5
 - Jacob's note: 
 - Logan's note: I struggled with the merge because I wasn't logged in to the correct account. Had to create a personal token to login. Had to select "repo" check box. 
-- Sebastian's note: 
+- Sebastian's note: I had accidentally joined the wrong team repository, so I repeated every step up until this point.
 - Alina's note: Merge issues. Asked professor for help and was able to resolve. Updates come through smoothly now
 
 
 ### step 12.6
 - Jacob's note: 
 - Logan's note: It took some work but we found that if we all wait for commits, pulls, pushes, then we were smooth sailing
-- Sebastian's note: 
+- Sebastian's note: Professor Will helped me understand how the whole push and pull process works for the repository, so now I feel more confident for this.
 - Alina's note:everything is coming through smoothly, all commits, pulls, and pushes seem to be working
 
