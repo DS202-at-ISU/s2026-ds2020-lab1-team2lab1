@@ -59,21 +59,21 @@ from Jacob :)
 
 ### step 12.4
 - Jacob's note: 
-- Logan's note:
+- Logan's note: I didn't have any issues with this step so I just commited the thing locally
 - Sebastian's note: 
 - Alina's note: The initial statement did not come through for everyone
 
 
 ### step 12.5
 - Jacob's note: 
-- Logan's note:
+- Logan's note: I struggled with the merge because I wasn't logged in to the correct account. Had to create a personal token to login. Had to select "repo" check box. 
 - Sebastian's note: 
 - Alina's note: Merge issues. Asked professor for help and was able to resolve. Updates come through smoothly now
 
 
 ### step 12.6
 - Jacob's note: 
-- Logan's note:
+- Logan's note: It took some work but we found that if we all wait for commits, pulls, pushes, then we were smooth sailing
 - Sebastian's note: 
 - Alina's note:everything is coming through smoothly, all commits, pulls, and pushes seem to be working
 
