@@ -1,11 +1,6 @@
 ---
-<<<<<<< HEAD
 title: "DS 2020 LAB 1 TEAM 2"
 date: "2/11/2026"
-=======
-title: "DS 2020 La1 Team2"
-date: "Spring 2026"
->>>>>>> d9d585d0339d1eef0d6391cb9ace44bcb75850c8
 output: github_document
 ---
 
